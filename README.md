@@ -1,2 +1,2 @@
 # TitanicKaggle
-Artificial Intelligence Project on Titanic Dataset from Kaggle
+Survival Classification of Titanic Dataset from Kaggle
